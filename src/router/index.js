@@ -33,7 +33,7 @@ export default new Router({
     },
     {
       path: '/',
-      name: '图表',
+      name: '',
       component: Home,
       iconCls: 'icon-settings',
       isLeftNav: true,
@@ -44,7 +44,7 @@ export default new Router({
     },
     {
       path: '/',
-      name: '设置',
+      name: '',
       component: Home,
       iconCls: 'icon-settings',
       isLeftNav: true,
